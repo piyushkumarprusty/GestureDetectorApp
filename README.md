@@ -1,4 +1,5 @@
 # GestureDetectorApp
+Install My app to your phone and get notified about your tap
 
 <h4>when you scroll </h4>
 <img src="https://user-images.githubusercontent.com/83058841/123639565-f5994780-d83d-11eb-9e19-e04864cde644.png" width="300" height="400">
